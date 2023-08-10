@@ -1,9 +1,3 @@
-![8](https://github.com/IAA77/finalpro/assets/130398370/28eb70f6-1ae8-4abd-b489-e57544023f42)
-![Uploading 7.PNG…]()
-![Uploading 6.PNG…]()
-![Uploading 5.PNG…]()
-![Uploading 4.PNG…]()
-![Uploading 3.PNG…]()
 
 ## Foodie Blog: A Gastronomic Adventure through Flavors and Recipes
 
@@ -16,9 +10,17 @@ Welcome to Foodie Blog, your ultimate destination for culinary inspiration, deli
 - [Contact](#contact)
 
 ## ScreenShots
-![Uploading 2.PNG…]()
-![Uploading 1.PNG…]()
+![8](https://github.com/IAA77/finalpro/assets/130398370/28eb70f6-1ae8-4abd-b489-e57544023f42)
+![1](https://github.com/IAA77/finalpro/assets/130398370/49f8792a-184a-41a8-80ef-24e57c205335)
+![3](https://github.com/IAA77/finalpro/assets/130398370/8df33298-e69b-4897-bc6c-3aa2321300df)
+![4](https://github.com/IAA77/finalpro/assets/130398370/d1a69307-7992-4058-90fb-dcde5204cfa1)
 
+![2](https://github.com/IAA77/finalpro/assets/130398370/31eab428-c30c-4617-9016-16c2c8844562)
+
+![5](https://github.com/IAA77/finalpro/assets/130398370/3a399eb8-0e20-44d4-95ae-8af77be2ead4)
+
+![6](https://github.com/IAA77/finalpro/assets/130398370/9e22178c-582c-4c1f-8824-5fd4bac515a0)
+![7](https://github.com/IAA77/finalpro/assets/130398370/d5aef22d-7437-4a26-a17a-b074fa303634)
 
 ## About
 
