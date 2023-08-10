@@ -46,8 +46,8 @@ Do you have questions, suggestions, or simply want to connect? Reach out to us:
 
 Prepare to embark on an extraordinary culinary odyssey with Foodie Blog!
 
-## This is my final Future Ready Talent project
+## This is my final Future Ready Talent project website:
 #azure link https://zealous-sand-020021910.3.azurestaticapps.net/
 
-I have also made a video on my website, you can find it here:
-
+## I have also made a video on my website, you can find it here:
+https://drive.google.com/file/d/1JlnsdlD9n2OsFPscUxJyZ2dlcMWevToo/view
